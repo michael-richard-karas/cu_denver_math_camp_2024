@@ -1,6 +1,9 @@
-*.pdf
 *.aux
 *.log
 *.out
 *.toc
 *.synctex.gz
+*.bcf
+*.nav
+*.run.xml
+*.snm
